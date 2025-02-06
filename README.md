@@ -2,7 +2,7 @@
 A linux script which takes a URL as a parameter and installs the CW Automate Ltech Agent
 
 Normal Usage:
-1. In most cases use curl or wget to download the script from: https://raw.githubusercontent.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/refs/heads/main/install_ltechagent.sh
+1. In most cases use curl or wget to download the install_ltechagent.sh script
 ```
 wget https://raw.githubusercontent.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/refs/heads/main/install_ltechagent.sh
 ```
