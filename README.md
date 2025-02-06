@@ -7,7 +7,9 @@ Normal Usage:
 wget https://raw.githubusercontent.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/refs/heads/main/install_ltechagent.sh
 ```
 2. Run the downloaded script with an installer download link (URL below is an example)
+```
 ./install_ltechagent.sh https://example.hostedrmm.com/LabTech/Deployment.aspx?InstallerToken=7143294ea3b42c48327d92c245
+```
 
 Optional Usage:
 1. Download the Systemd_LTechAgent_x86_64.zip from https://github.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/raw/refs/heads/main/Systemd_LTechAgent_x86_64.zip
