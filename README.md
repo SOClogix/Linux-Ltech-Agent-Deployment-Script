@@ -11,6 +11,9 @@ wget https://raw.githubusercontent.com/SOClogix/Linux-Ltech-Agent-Deployment-Scr
 
 Optional Usage:
 1. Download the Systemd_LTechAgent_x86_64.zip from https://github.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/raw/refs/heads/main/Systemd_LTechAgent_x86_64.zip
+```
+wget https://github.com/SOClogix/Linux-Ltech-Agent-Deployment-Script/raw/refs/heads/main/Systemd_LTechAgent_x86_64.zip
+```
 2. Unzip the file via:
 ```
 unzip Systemd_LTechAgent_x86_64.zip
